@@ -7,3 +7,13 @@ c:\users\josea\documents\visual studio 2015\Projects\prototipoLogistica\prototip
 c:\users\josea\documents\visual studio 2015\Projects\prototipoLogistica\prototipoLogistica\obj\Debug\prototipoLogistica.csproj.GenerateResource.Cache
 c:\users\josea\documents\visual studio 2015\Projects\prototipoLogistica\prototipoLogistica\obj\Debug\prototipoLogistica.exe
 c:\users\josea\documents\visual studio 2015\Projects\prototipoLogistica\prototipoLogistica\obj\Debug\prototipoLogistica.pdb
+C:\Users\josea\Documents\GitHub\prototipoLogistica\prototipoLogistica\prototipoLogistica\bin\Debug\prototipoLogistica.exe.config
+C:\Users\josea\Documents\GitHub\prototipoLogistica\prototipoLogistica\prototipoLogistica\obj\Debug\prototipoLogistica.exe
+C:\Users\josea\Documents\GitHub\prototipoLogistica\prototipoLogistica\prototipoLogistica\obj\Debug\prototipoLogistica.pdb
+C:\Users\josea\Documents\GitHub\prototipoLogistica\prototipoLogistica\prototipoLogistica\bin\Debug\prototipoLogistica.exe
+C:\Users\josea\Documents\GitHub\prototipoLogistica\prototipoLogistica\prototipoLogistica\bin\Debug\prototipoLogistica.pdb
+C:\Users\josea\Documents\GitHub\prototipoLogistica\prototipoLogistica\prototipoLogistica\obj\Debug\prototipoLogistica.csprojResolveAssemblyReference.cache
+C:\Users\josea\Documents\GitHub\prototipoLogistica\prototipoLogistica\prototipoLogistica\obj\Debug\prototipoLogistica.dashboard.resources
+C:\Users\josea\Documents\GitHub\prototipoLogistica\prototipoLogistica\prototipoLogistica\obj\Debug\prototipoLogistica.Form1.resources
+C:\Users\josea\Documents\GitHub\prototipoLogistica\prototipoLogistica\prototipoLogistica\obj\Debug\prototipoLogistica.Properties.Resources.resources
+C:\Users\josea\Documents\GitHub\prototipoLogistica\prototipoLogistica\prototipoLogistica\obj\Debug\prototipoLogistica.csproj.GenerateResource.Cache
