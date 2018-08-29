@@ -1,0 +1,9 @@
+c:\users\josea\documents\visual studio 2015\Projects\prototipoLogistica\prototipoLogistica\bin\Debug\prototipoLogistica.exe.config
+c:\users\josea\documents\visual studio 2015\Projects\prototipoLogistica\prototipoLogistica\bin\Debug\prototipoLogistica.exe
+c:\users\josea\documents\visual studio 2015\Projects\prototipoLogistica\prototipoLogistica\bin\Debug\prototipoLogistica.pdb
+c:\users\josea\documents\visual studio 2015\Projects\prototipoLogistica\prototipoLogistica\obj\Debug\prototipoLogistica.csprojResolveAssemblyReference.cache
+c:\users\josea\documents\visual studio 2015\Projects\prototipoLogistica\prototipoLogistica\obj\Debug\prototipoLogistica.Form1.resources
+c:\users\josea\documents\visual studio 2015\Projects\prototipoLogistica\prototipoLogistica\obj\Debug\prototipoLogistica.Properties.Resources.resources
+c:\users\josea\documents\visual studio 2015\Projects\prototipoLogistica\prototipoLogistica\obj\Debug\prototipoLogistica.csproj.GenerateResource.Cache
+c:\users\josea\documents\visual studio 2015\Projects\prototipoLogistica\prototipoLogistica\obj\Debug\prototipoLogistica.exe
+c:\users\josea\documents\visual studio 2015\Projects\prototipoLogistica\prototipoLogistica\obj\Debug\prototipoLogistica.pdb
